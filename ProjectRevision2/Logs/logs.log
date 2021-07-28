@@ -1,0 +1,17 @@
+2021-07-29 01:29:22,867  INFO [main] SignInSteps19 - ****************Browser is Opened*****************
+2021-07-29 01:29:22,953  INFO [main] SearchSteps23 - ******************User search a term******************
+2021-07-29 01:29:25,741  INFO [main] SearchSteps26 - ****************User reached on searched term page***************
+2021-07-29 01:29:27,206  INFO [main] SearchSteps36 - ************All Searched Results are not as per the searched term***********
+2021-07-29 01:29:30,991  INFO [main] SignInSteps19 - ****************Browser is Opened*****************
+2021-07-29 01:29:30,998  INFO [main] SearchSteps46 - ******************User search a term******************
+2021-07-29 01:29:33,584  INFO [main] SearchSteps49 - ****************User reached on images of searched term**************
+2021-07-29 01:30:01,097  INFO [main] SignInSteps19 - ****************Browser is Opened*****************
+2021-07-29 01:30:01,120  INFO [main] SignInSteps26 - ***************User click on signIn option*****************
+2021-07-29 01:30:02,970  INFO [main] SignInSteps28 - ****************User enter Valid Mail Id*******************
+2021-07-29 01:30:03,624  INFO [main] SignInSteps31 - ****************User enter Valid Password*******************
+2021-07-29 01:30:05,331  INFO [main] SignInSteps39 - ****************User logged In Successfully*****************
+2021-07-29 01:30:11,627  INFO [main] SignInSteps42 - ****************User SignOut Successfully********************
+2021-07-29 01:30:15,013  INFO [main] SignInSteps19 - ****************Browser is Opened*****************
+2021-07-29 01:30:16,862  INFO [main] SignInSteps51 - ****************User enter Valid Mail Id*******************
+2021-07-29 01:30:17,555  INFO [main] SignInSteps54 - ****************User enter InValid Password*******************
+2021-07-29 01:30:24,573  INFO [main] SignInSteps65 - ****************User not able to logged In Successfully*****************

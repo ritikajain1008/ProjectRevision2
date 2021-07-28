@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.104919">
+    <testcase classname="Validate Search functionality" name="User can validate all the search results on first page contain search term entered" time="13.104919">
+        <system-out><![CDATA[Given User launches the browser.............................................passed
+When User search an item using search option................................passed
+Then Validate all search results are according to the item searched.........passed
+]]></system-out>
+    </testcase>
+</testsuite>
